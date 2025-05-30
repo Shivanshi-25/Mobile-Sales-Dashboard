@@ -14,6 +14,7 @@ This Power BI Mobile Sales Dashboard doesn't just display data—it tells a stor
 
 "Turn Numbers into Narratives – Let Data Drive Your Decisions!"
 📊✨📱💡📈🔍
+![Final Mobile Sales Dashboard ](https://github.com/user-attachments/assets/58e2b016-030c-42bc-be52-9bc0e9f1e0f0)
 
 
 
